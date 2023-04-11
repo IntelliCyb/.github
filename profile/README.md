@@ -35,4 +35,5 @@ We welcome contributions from the community! If you would like to contribute to 
 5. Submit a pull request.
 
 ## License
+
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
