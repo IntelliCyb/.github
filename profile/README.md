@@ -1,6 +1,6 @@
 # IntelliCyb
 
-IntelliCyb is an automated vulnerability assessment plan that makes cybersecurity easy and efficient for businesses of all sizes. Our mission is to provide customized solutions that empower businesses to operate with confidence in the digital world.
+IntelliCyb is an automated vulnerability assessment platform that makes cybersecurity easy and efficient for businesses of all sizes. Our mission is to provide customized solutions that empower businesses to operate with confidence in the digital world.
 
 We utilize cutting-edge technologies and innovative strategies to stay at the forefront of the industry and protect our clients from threats while mitigating risks. Our team is committed to delivering the best cybersecurity solutions for your business.
 
