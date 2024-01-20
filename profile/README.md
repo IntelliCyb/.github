@@ -1,4 +1,4 @@
-# IntelliCyb
+![alt text](https://github.com/IntelliCyb/.github/blob/main/profile/logo.png)
 
 IntelliCyb is an automated vulnerability assessment platform that makes cybersecurity easy and efficient for businesses of all sizes. Our mission is to provide customized solutions that empower businesses to operate with confidence in the digital world.
 
