@@ -1,5 +1,6 @@
 ![IntelliCyb](https://github.com/IntelliCyb/.github/blob/main/profile/logo-white.png)
 
+> [!NOTE]
 > In today's increasingly interconnected world, cybersecurity has become paramount for businesses of all sizes. **IntelliCyb** addresses this challenge by providing an automated vulnerability assessment platform that streamlines and enhances cybersecurity practices. Our customized solutions empower businesses to operate with confidence in the digital realm, effectively mitigating threats and safeguarding their assets.
 
 ## Table of Contents
@@ -11,7 +12,8 @@
 
 ## Usage
 
-**IntelliCyb** provides automated vulnerability assessments for organizations and businesses of all sizes, including those in regulated industries such as healthcare, finance, and government. To use our services, simply visit our website and sign up for an account. Once you have an account, you can paste your `website URL`, `web application`, `API endpoint`, `mobile application`, or `cloud-based application`, and we will automatically scan it for vulnerabilities. Our reports are easy to understand and provide detailed information about any vulnerabilities that we find.
+> [!IMPORTANT]
+> **IntelliCyb** provides automated vulnerability assessments for organizations and businesses of all sizes, including those in regulated industries such as healthcare, finance, and government. To use our services, simply visit our website and sign up for an account. Once you have an account, you can paste your `website URL`, `web application`, `API endpoint`, `mobile application`, or `cloud-based application`, and we will automatically scan it for vulnerabilities. Our reports are easy to understand and provide detailed information about any vulnerabilities that we find.
 
 ## Features
 
