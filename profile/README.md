@@ -2,8 +2,6 @@
 
 > In today's increasingly interconnected world, cybersecurity has become paramount for businesses of all sizes. **IntelliCyb** addresses this challenge by providing an automated vulnerability assessment platform that streamlines and enhances cybersecurity practices. Our customized solutions empower businesses to operate with confidence in the digital realm, effectively mitigating threats and safeguarding their assets.
 
-> We leverage cutting-edge technologies and innovative strategies to remain at the cutting edge of the cybersecurity landscape. Our team is dedicated to delivering the best cybersecurity solutions for your business, ensuring that your digital infrastructure is protected and your operations remain secure.
-
 ## Table of Contents
 
 - [Usage](#usage)
