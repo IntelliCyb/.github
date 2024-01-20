@@ -13,7 +13,7 @@
 
 ## Usage
 
-**IntelliCyb** provides automated vulnerability assessments for organizations and businesses of all sizes, including those in regulated industries such as healthcare, finance, and government. To use our services, simply visit our website and sign up for an account. Once you have an account, you can paste your website URL, web application, API endpoint, mobile application, or cloud-based application, and we will automatically scan it for vulnerabilities. Our reports are easy to understand and provide detailed information about any vulnerabilities that we find.
+**IntelliCyb** provides automated vulnerability assessments for organizations and businesses of all sizes, including those in regulated industries such as healthcare, finance, and government. To use our services, simply visit our website and sign up for an account. Once you have an account, you can paste your `website URL`, `web application`, `API endpoint`, `mobile application`, or `cloud-based application`, and we will automatically scan it for vulnerabilities. Our reports are easy to understand and provide detailed information about any vulnerabilities that we find.
 
 ## Features
 
