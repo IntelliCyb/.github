@@ -1,4 +1,4 @@
-<img src="logo.png" alt="IntelliCyb" width="500"/>
+<img src="logo.png" alt="IntelliCyb" width="300"/>
 
 ## Table of Contents
 
