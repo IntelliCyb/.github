@@ -1,6 +1,4 @@
-![IntelliCyb](https://github.com/IntelliCyb/.github/blob/main/profile/logo.png)
-
-In today's increasingly interconnected world, cybersecurity has become paramount for businesses of all sizes. **IntelliCyb** addresses this challenge by providing an automated vulnerability assessment platform that streamlines and enhances cybersecurity practices. Our customized solutions empower businesses to operate with confidence in the digital realm, effectively mitigating threats and safeguarding their assets.
+<img src="logo.png" alt="IntelliCyb" width="500"/>
 
 ## Table of Contents
 
