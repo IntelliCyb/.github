@@ -1,8 +1,8 @@
 ## <img src="logo.png" alt="IntelliCyb" width="200"/>
 
-**IntelliCyb** is an advanced, automated vulnerability assessment platform built to help individuals, businesses, and governments identify and mitigate security risks across their digital assets.
+**IntelliCyb** is an advanced automated vulnerability assessment platform built to help individuals, businesses, and governments identify and mitigate security risks across their digital assets.
 
-Whether you're securing a personal blog, a growing startup’s APIs, a government portal, or a cloud infrastructure, IntelliCyb empowers you to detect vulnerabilities proactively without the need for in-depth technical knowledge.
+Whether you're securing a personal blog, a growing startup's APIs, a government portal, or a cloud infrastructure, IntelliCyb empowers you to detect vulnerabilities proactively without the need for in-depth technical knowledge.
 
 ## Features
 
@@ -21,7 +21,7 @@ Whether you're securing a personal blog, a growing startup’s APIs, a governmen
 ## How It Works
 
 1. **Sign Up**  
-   Visit our website and create an account.
+   Visit [IntelliCyb][website] and create an account.
 
 2. **Submit Your Asset**  
    Paste your target URL or endpoint whether it's a website URL, web application, API endpoint, mobile application package, or cloud-hosted service.
@@ -34,6 +34,8 @@ Whether you're securing a personal blog, a growing startup’s APIs, a governmen
    - **Discovered vulnerabilities**
    - **Severity levels** (Critical, High, Medium, Low)
    - **Step-by-step remediation instructions**
+  
+[website]: https://www.intellicyb.com/
 
 ## Contributing workflow
 
