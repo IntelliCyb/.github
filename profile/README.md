@@ -1,4 +1,4 @@
-## <img src="logo.png" alt="IntelliCyb" width="200"/>
+## <img src="logo.svg" alt="IntelliCyb" width="200"/>
 
 **IntelliCyb** is an advanced automated vulnerability assessment platform built to help individuals, businesses, and governments identify and mitigate security risks across their digital assets.
 
